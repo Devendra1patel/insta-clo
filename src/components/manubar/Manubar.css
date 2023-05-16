@@ -1,0 +1,9 @@
+.manuButton:hover{
+    background-color: #1e1c1c;
+    transition: all;
+    transition-duration:500ms;
+}
+.Link{
+    text-decoration:none;
+    color:white;
+}
